@@ -7,6 +7,12 @@ Hello! My name is Yousef Al-Habbash. I am a Grade 10 student in high school, cur
 
 Thank you for visiting my profile!
 
+<h2>✍ Programming Languages</h2>
+<p>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
+</p>
 
 <!--
 **yousef-alhabbash/yousef-alhabbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
