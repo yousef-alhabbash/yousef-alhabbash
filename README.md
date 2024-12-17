@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Yousef Al-Habbash I am a grade 10 student
+
+![image](https://github.com/user-attachments/assets/f3eddf87-729d-403c-9947-c668210af0f3)
+
 <!--
 **yousef-alhabbash/yousef-alhabbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
