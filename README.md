@@ -23,6 +23,20 @@ The following programming languages I know:
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
    <a href="https://www.microsoft.com/en-ca/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
 </p>
+
+## 🔧 Tools
+
+  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+
+
+## 📝 Grade 10 Projects
+
+
+
 <!--
 **yousef-alhabbash/yousef-alhabbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
