@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-My name is Yousef Al-Habbash I am a grade 10 student
-
+yousef.al-habbash@mths.ca
 ![image](https://github.com/user-attachments/assets/f3eddf87-729d-403c-9947-c668210af0f3)
+Hello! My name is Yousef Al-Habbash. I am a Grade 10 student in high school, currently studying in a Computer Engineering class. I am excited to learn more about computers, technology, and engineering. I look forward to gaining new skills and expanding my knowledge in this field.
+
+Thank you for visiting my profile!
+
 
 <!--
 **yousef-alhabbash/yousef-alhabbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
