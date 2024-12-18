@@ -35,20 +35,6 @@ The following programming languages I know:
   
 
 
-## 📝 Grade 10 Projects
-
-https://github.com/yousef-alhabbash/TEJ2O-Unit-2-16B-yousef-alhabbash
-
-https://github.com/yousef-alhabbash/TEJ2O-Unit-2-15B-yousef-alhabbash
-
-https://github.com/yousef-alhabbash/TEJ2O-Unit-5-08B-yousef-alhabbash
-
-https://github.com/yousef-alhabbash/TEJ2O-Unit-2-13B-yousef-alhabbash
-
-https://github.com/yousef-alhabbash/TEJ2O-Unit-2-08B-yousef-alhabbash
-
-https://github.com/yousef-alhabbash/TEJ2O-Unit-2-11B-yousef-alhabbash
-
 <!--
 **yousef-alhabbash/yousef-alhabbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
